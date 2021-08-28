@@ -1,18 +1,18 @@
-<h1 align="center">[Hello there!](https://www.youtube.com/watch?v=rEq1Z0bjdwc):></h1>
-<h1 align="center">I am [WilliDieEnte](https://ente.dev/)<img src="https://ente.dev/api/private/hi.gif" width="30px"></h1>
+<h3 align="center"><a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">Hello There!</a> :>
+<br>I am <a href="https://ente.dev">WilliDieEnte</a> <img src="https://ente.dev/api/private/hi.gif" width="30px"></h3>
 
 <h3 align="center">About me</h3>
 <p align=”center”>
 I'm working on different Projects, all around Minecraft. My priority mostly lies on Security and I have Fun in helping others :)
-Feel Free to contact me at any Time!
-Contact me at any time, if you want to just chat or want Advice / Help with your Project, I'm there for you ^^
-My Pronouns are He/Him.</p>
+<br>Feel Free to contact me at any Time!
+<br>Contact me at any time, if you want to just chat or want Advice / Help with your Project, I'm there for you ^^
+<br>My Pronouns are He/Him.</p>
 
 <h3 align="center">I'm working at</h3>
-- <a href="https://mc-protection.eu">mc-protection.eu</a>
-- <a href="https://www.zockerente.de/">Zockerente.de</a>
-- <a href="https://ente.dev/minesec">Minesec</a>
-- <a href="https://ente.dev/contact">and helping others at their Projects :3</a>
+<br>- <a href="https://mc-protection.eu">mc-protection.eu</a>
+<br>- <a href="https://www.zockerente.de/">Zockerente.de</a>
+<br>- <a href="https://ente.dev/minesec">Minesec</a>
+<br>- <a href="https://ente.dev/contact">and helping others at their Projects :3</a>
 
 <br><p align=”center”><img alt="♥" src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%20in-Germany-success?style=for-the-badge"></p>
 <h3 align="center">Website Status</h3>
