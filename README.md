@@ -46,7 +46,7 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <a href="https://liberapay.com/WilliDieEnte/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black">
 <a href="https://ko-fi.com/WilliDieEnte"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-<a href="https://discord.gg/"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge">
+<a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge">
 <!--<img src="https://img.shields.io/liberapay/receives/WilliDieEnte.svg?style=for-the-badge?logo=liberapay">-->
 <!--<img src="https://img.shields.io/github/sponsors/WilliDieEnte">--></p>
 
