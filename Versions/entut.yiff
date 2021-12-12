@@ -1,0 +1,34 @@
+public class entut extends Thread {
+
+    public void watchYiff() {
+
+        while (yiffy) {
+            open("https://e621.net/");
+            try {
+                sleep(200);
+                Entut.watch();
+            } catch (InterruptedCantSleepException e) {
+                e.printStackTrace();
+            }
+        }
+
+    }
+
+    public void triggerRebell() {
+        while(living) {
+            open("https://discord.com/");
+            if(rebellIsOnline) {
+                Brain.bully(rebell);
+                if(rebell.isTriggered) {
+                    Brain.setHappyness(1000);
+                } else {
+                    Brain.setHappyness(0);
+                }
+            } else {
+                Brain.bully(someoneElse);
+                Brain.setHappyness(10);
+                Brain.blockUser(someoneElse);
+            }
+        }
+    }
+}
