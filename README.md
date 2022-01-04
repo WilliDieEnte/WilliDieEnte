@@ -54,18 +54,20 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <p align=”center”>
 <img alt="Intel Core i9-9900k" src="https://img.shields.io/badge/Intel-Core_i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img alt="Nvidia RTX 2060" src="https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img alt="Microsoft Windows 10" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-<img alt="Android 11" src="https://img.shields.io/badge/Android_11-3DDC84?style=for-the-badge&logo=android&logoColor=white"></p>
+<img alt="Microsoft Windows 10 Pro" src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img alt="Lineage OS" src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white"></p>
 
 <h3 align="center">and I mainly work with</h3>
 <p align=”center”>
-<img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white">
-<img alt="DuckDuckGo" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white">
-<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
+<a href="https://duckduckgo.com"><img alt="DuckDuckGo" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white"></a>
+<a href="https://www.cloudflare.com"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
+<a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://mariadb.org/"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
+<a href="https://sqlite.org/index.html"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+<a href="https://h2database.com/html/main.html"></a>
+<a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <img alt="BitBucket" src="https://img.shields.io/badge/Bitbucket-330F63?style=for-the-badge&logo=bitbucket&logoColor=white">
 <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"></p>
 
