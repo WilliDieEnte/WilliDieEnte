@@ -17,8 +17,9 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <br><p align=”center”><img alt="♥" src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%20in-Germany-success?style=for-the-badge"></p>
 <h3 align="center">Website Status</h3>
 <p align=”center”>
-<a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/status/m787547509-09ccef02b2a750c48d9da45f?style=for-the-badge"></a>
-<a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/ratio/m787547509-09ccef02b2a750c48d9da45f?style=for-the-badge"></a>
+<!--m787547509-09ccef02b2a750c48d9da45f-->
+<a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/status/m787547520-8b1348a54a8510fe5c6b44ec?style=for-the-badge"></a>
+<a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/ratio/m787547520-8b1348a54a8510fe5c6b44ec?style=for-the-badge"></a>
 <a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/hsts/preload/ente.dev?style=for-the-badge"></a>
 <!--<a href="https://ente.dev/"><img src="https://img.shields.io/security-headers?url=https%3A%2F%2Fente.dev?style=for-the-badge">--></p></a>
 
