@@ -25,31 +25,30 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 
 <h3 align="center">You can find me here</h3>
 <p align=”center”>
-<a href="https://www.instagram.com/WilliDieEnte/"><img alt="Instagram" src="https://img.shields.io/badge/WilliDieEnte-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<a href="https://steamcommunity.com/id/WilliDieEnte"><img alt="Steam" src="https://img.shields.io/badge/WilliDieEnte-000000?style=for-the-badge&logo=steam&logoColor=white">
-<a href="https://willidieente.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/WilliDieEnte-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white">
-<a href="https://www.reddit.com/user/WilliDieEnte/"><img alt="Reddit" src="https://img.shields.io/badge/WilliDieEnte-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
-<a href="https://www.tiktok.com/@willidieente"><img alt="TikTok" src="https://img.shields.io/badge/WilliDieEnte-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
-<a href="https://t.me/WilliDieEnte"><img alt="Telegram" src="https://img.shields.io/badge/WilliDieEnte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-<a href="https://www.facebook.com/WilliDieEnte"><img alt="Facebook" src="https://img.shields.io/badge/WilliDieEnte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+<a href="https://www.instagram.com/WilliDieEnte/"><img alt="Instagram" src="https://img.shields.io/badge/WilliDieEnte-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://steamcommunity.com/id/WilliDieEnte"><img alt="Steam" src="https://img.shields.io/badge/WilliDieEnte-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
+<a href="https://willidieente.itch.io/"><img alt="Itch" src="https://img.shields.io/badge/WilliDieEnte-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"></a>
+<a href="https://www.reddit.com/user/WilliDieEnte/"><img alt="Reddit" src="https://img.shields.io/badge/WilliDieEnte-FF4500?style=for-the-badge&logo=reddit&logoColor=white"></a>
+<a href="https://www.tiktok.com/@willidieente"><img alt="TikTok" src="https://img.shields.io/badge/WilliDieEnte-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"></a>
+<a href="https://t.me/WilliDieEnte"><img alt="Telegram" src="https://img.shields.io/badge/WilliDieEnte-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://www.facebook.com/WilliDieEnte"><img alt="Facebook" src="https://img.shields.io/badge/WilliDieEnte-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>
 <img alt="BattleNET" src="https://img.shields.io/badge/WilliDieEnte_2245-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white">
 <img alt="EA / Origin" src="https://img.shields.io/badge/WilliDieEnte-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white">
 <img alt="Epic Games" src="https://img.shields.io/badge/WilliDieEnte-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white">
 <img alt="Ubisoft" src="https://img.shields.io/badge/WilliDieEnte-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black">
-<a href="https://www.youtube.com/channel/UC46NKNRNAS6rJf1PK9YyDLw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC46NKNRNAS6rJf1PK9YyDLw?style=for-the-badge&logo=youtube">
-<a href="https://twitter.com/WilliDieEnte"><img alt="Twitter" src="https://img.shields.io/twitter/follow/WilliDieEnte?style=for-the-badge&logo=twitter">
-<a href="https://github.com/WilliDieEnte"><img alt="Github" src="https://img.shields.io/github/followers/WilliDieEnte?style=for-the-badge&logo=github">
-<a href="https://twitch.tv/WilliDieEnte"><img alt="Twitch" src="https://img.shields.io/twitch/status/WilliDieEnte?style=for-the-badge&logo=twitch"></p>
+<a href="https://www.youtube.com/channel/UC46NKNRNAS6rJf1PK9YyDLw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC46NKNRNAS6rJf1PK9YyDLw?style=for-the-badge&logo=youtube"></a>
+<a href="https://twitter.com/WilliDieEnte"><img alt="Twitter" src="https://img.shields.io/twitter/follow/WilliDieEnte?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/WilliDieEnte"><img alt="Github" src="https://img.shields.io/github/followers/WilliDieEnte?style=for-the-badge&logo=github"></a>
+<a href="https://twitch.tv/WilliDieEnte"><img alt="Twitch" src="https://img.shields.io/twitch/status/WilliDieEnte?style=for-the-badge&logo=twitch"></a></p>
 
 <h3 align="center">If you can, Donations are appreciated 💖</h3>
 <p align=”center”>
-<a href="https://www.patreon.com/WilliDieEnte/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white">
-<a href="https://liberapay.com/WilliDieEnte/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black">
-<a href="https://ko-fi.com/WilliDieEnte"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+<a href="https://www.patreon.com/WilliDieEnte/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<a href="https://liberapay.com/WilliDieEnte/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
+<a href="https://ko-fi.com/WilliDieEnte"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-<a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge">
-<!--<img src="https://img.shields.io/liberapay/receives/WilliDieEnte.svg?style=for-the-badge?logo=liberapay">-->
-<!--<img src="https://img.shields.io/github/sponsors/WilliDieEnte">--></p>
+<a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge"></a>
+<!--<a href="https://"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/WilliDieEnte"></a>--></p>
 
 <h3 align="center">I personally use</h3>
 <p align=”center”>
