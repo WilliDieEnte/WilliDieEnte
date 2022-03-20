@@ -39,7 +39,8 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <a href="https://www.youtube.com/channel/UC46NKNRNAS6rJf1PK9YyDLw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UC46NKNRNAS6rJf1PK9YyDLw?style=for-the-badge&logo=youtube"></a>
 <a href="https://twitter.com/WilliDieEnte"><img alt="Twitter" src="https://img.shields.io/twitter/follow/WilliDieEnte?style=for-the-badge&logo=twitter"></a>
 <a href="https://github.com/WilliDieEnte"><img alt="Github" src="https://img.shields.io/github/followers/WilliDieEnte?style=for-the-badge&logo=github"></a>
-<a href="https://twitch.tv/WilliDieEnte"><img alt="Twitch" src="https://img.shields.io/twitch/status/WilliDieEnte?style=for-the-badge&logo=twitch"></a></p>
+<a href="https://twitch.tv/WilliDieEnte"><img alt="Twitch" src="https://img.shields.io/twitch/status/WilliDieEnte?style=for-the-badge&logo=twitch"></a>
+<a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge"></a></p>
 
 <h3 align="center">If you can, Donations are appreciated 💖</h3>
 <p align=”center”>
@@ -47,7 +48,6 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <a href="https://liberapay.com/WilliDieEnte/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
 <a href="https://ko-fi.com/WilliDieEnte"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-<a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge"></a>
 <!--<a href="https://"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/WilliDieEnte"></a>--></p>
 
 <h3 align="center">I personally use</h3>
