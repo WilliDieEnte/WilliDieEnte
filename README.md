@@ -1,27 +1,31 @@
 <h3 align="center"><a href="https://www.youtube.com/watch?v=rEq1Z0bjdwc">Hello There!</a> :>
-<br>I am <a href="https://ente.dev">WilliDieEnte</a> <img src="https://ente.dev/api/private/hi.gif" width="30px"></h3>
+<br>I am <a href="https://ente.dev">WilliDieEnte</a> <img src="https://ente.dev/api/images/hi.gif" width="25px"></h3>
 
 <h3 align="center">About me</h3>
 <p align=”center”>
-I'm working on different Projects, all around Minecraft. My priority mostly lies on Security and I have Fun in helping others :)
-<br>Feel Free to contact me at any Time!
-<br>Contact me at any time, if you want to just chat or want Advice / Help with your Project, I'm there for you ^^
-<br>My Pronouns are He/Him.</p>
+I'm working on different projects, mostly around Minecraft or networking.
+<br>My priority mostly lies on security, as well as privacy and I enjoy helping others :)
+<br>Feel free to contact me at any time, if you just want to chat or want advice / help with your project, I'll be there for you ^w^
+<br>My pronouns are He/Him.</p>
 
-<h3 align="center">I'm working at</h3>
-<br>- <a href="https://mc-protection.eu">mc-protection.eu</a>
-<br>- <a href="https://www.zockerente.de/">Zockerente.de</a>
-<br>- <a href="https://ente.dev/minesec">Minesec</a>
+<h3 align="center">I'm currently working at</h3>
+<br>- <a href="https://mc-protection.eu">mc-protection.eu <img src="https://ente.dev/api/images/mc-protection96.png" width="20px"></a>
+<br>- <a href="https://www.zockerente.de/">Zockerente.de <img src="https://ente.dev/api/images/zockerente96.png" width="20px"></a>
 <br>- <a href="https://ente.dev/contact">and helping others at their Projects :3</a>
 
-<br><p align=”center”><img alt="♥" src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%20in-Germany-success?style=for-the-badge"></p>
-<h3 align="center">Website Status</h3>
+<br>
+<h4 align="center">
+<a href="https://ente.dev/"><img alt="♥" src="https://img.shields.io/badge/Made%20with%20%E2%99%A5%20in-Germany-success?style=for-the-badge"></a>
+<img alt="ente.dev" src="https://img.shields.io/uptimerobot/ratio/m787547520-8b1348a54a8510fe5c6b44ec?style=for-the-badge">
+<a href="https://www.patreon.com/WilliDieEnte/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+</h4>
+
+
+<!--<h3 align="center">Website Status</h3>
 <p align=”center”>
-<!--m787547509-09ccef02b2a750c48d9da45f-->
 <a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/status/m787547520-8b1348a54a8510fe5c6b44ec?style=for-the-badge"></a>
-<a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/uptimerobot/ratio/m787547520-8b1348a54a8510fe5c6b44ec?style=for-the-badge"></a>
 <a href="https://ente.dev/"><img alt="ente.dev" src="https://img.shields.io/hsts/preload/ente.dev?style=for-the-badge"></a>
-<!--<a href="https://ente.dev/"><img src="https://img.shields.io/security-headers?url=https%3A%2F%2Fente.dev?style=for-the-badge">--></p></a>
+<a href="https://ente.dev/"><img src="https://img.shields.io/security-headers?url=https%3A%2F%2Fente.dev?style=for-the-badge"></p></a>-->
 
 <h3 align="center">You can find me here</h3>
 <p align=”center”>
@@ -42,13 +46,13 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <a href="https://twitch.tv/WilliDieEnte"><img alt="Twitch" src="https://img.shields.io/twitch/status/WilliDieEnte?style=for-the-badge&logo=twitch"></a>
 <a href="https://discord.gg/Fak49G9"><img alt="Discord" src="https://img.shields.io/discord/602196870864830465?style=for-the-badge"></a></p>
 
-<h3 align="center">If you can, Donations are appreciated 💖</h3>
+<!--<h3 align="center">If you can, Donations are appreciated 💖</h3>
 <p align=”center”>
 <a href="https://www.patreon.com/WilliDieEnte/"><img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
 <a href="https://liberapay.com/WilliDieEnte/"><img alt="Libreapay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black"></a>
 <a href="https://ko-fi.com/WilliDieEnte"><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
 <img alt="PayPal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-<!--<a href="https://"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/WilliDieEnte"></a>--></p>
+<a href="https://"><img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/WilliDieEnte"></a></p>-->
 
 <h3 align="center">I personally use</h3>
 <p align=”center”>
@@ -60,7 +64,6 @@ I'm working on different Projects, all around Minecraft. My priority mostly lies
 <h3 align="center">and I mainly work with</h3>
 <p align=”center”>
 <a href="https://www.mozilla.org/en-US/firefox/new/"><img alt="Firefox" src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
-<a href="https://duckduckgo.com"><img alt="DuckDuckGo" src="https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white"></a>
 <a href="https://www.cloudflare.com"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"></a>
 <a href="https://www.java.com/"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
 <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
