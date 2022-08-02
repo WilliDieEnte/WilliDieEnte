@@ -58,7 +58,7 @@ I'm working on different projects, mostly around Minecraft or networking.
 <p align=”center”>
 <img alt="Intel Core i9-9900k" src="https://img.shields.io/badge/Intel-Core_i9_9900k-0071C5?style=for-the-badge&logo=intel&logoColor=white">
 <img alt="Nvidia RTX 2060" src="https://img.shields.io/badge/NVIDIA-RTX_2060-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img alt="Microsoft Windows 10 Enterprise LTSC" src="https://img.shields.io/badge/Windows_10_Enterprise_N_LTSC-0078D6?style=for-the-badge&logo=windows&logoColor=white%22">
+<img alt="Microsoft Windows 10 Enterprise IoT LTSC" src="https://img.shields.io/badge/Windows_10_Enterprise_IoT_N_LTSC-0078D6?style=for-the-badge&logo=windows&logoColor=white%22">
 <img alt="Lineage OS" src="https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white"></p>
 
 <h3 align="center">and I mainly work with</h3>
