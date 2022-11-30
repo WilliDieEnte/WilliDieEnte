@@ -9,7 +9,7 @@ I'm working on different projects, mostly around Minecraft or networking.
 <br>My pronouns are They/He.</p>
 
 <h3 align="center">I'm currently working at</h3>
-<br>- <a href="https://mc-protection.eu">mc-protection.eu <img src="https://ente.dev/api/images/mc-protection96.png" width="20px"></a>
+<br>- <a href="https://mcprotection.eu">mcprotection.eu <img src="https://ente.dev/api/images/mc-protection96.png" width="20px"></a>
 <br>- <a href="https://www.zockerente.de/">Zockerente.de <img src="https://ente.dev/api/images/zockerente96.png" width="20px"></a>
 <br>- <a href="https://ente.dev/contact">and helping others with their Projects :3</a>
 
